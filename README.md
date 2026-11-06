@@ -4,3 +4,4 @@
 Изменение непосредственно в master
 Изучаем Git Rebase
 Изучаем Git Reset
+Изучаем Git Stash
